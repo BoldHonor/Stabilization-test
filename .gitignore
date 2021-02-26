@@ -21,7 +21,7 @@
 
 # Visual Studio cache directory
 .vs/
-Stabalization-Testing/Packages/package/
+Stabilizaton-InternalTesting/Packages/package/
 # Gradle cache directory
 .gradle/
 
